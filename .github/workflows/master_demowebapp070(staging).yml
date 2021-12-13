@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'demowebapp070'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19816926B13E455283FC1541933FDA47 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFD72BC3EE034F1C944E200406B0BCD1 }}
           package: .
